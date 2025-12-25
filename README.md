@@ -48,5 +48,3 @@
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder49"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pycoder49&theme=tokyo-night"/>
