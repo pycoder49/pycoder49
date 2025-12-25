@@ -17,32 +17,47 @@
 ## 🔧 Tech Stack & Tools
 
 ### **Core**
-- Python, Java, Rust, C, C++  
-- NumPy, Pandas, Scikit-Learn, PyTorch  
-- FastAPI  
+- Python, Java, Rust, C++, SQL,
+- NumPy, Pandas, Scikit-Learn, PyTorch, langchain,
+- FastAPI
 - MLflow, DAGsHub  
-- Git, GitHub Actions  
-- Linux / Ubuntu (primary dev environment)
+- Git, GitHub Actions
 
-### **ML / DL**
-- End-to-end pipelines  
-- NLP (TF-IDF, Bag of Words, vectorizers, Word2Vec)  
-- Neural networks (ReLU/sigmoid/softmax, backprop from scratch)  
-- Feature engineering & evaluation  
-- Model selection + reproducibility  
+### **Machine Learning**
+- End-to-end pipelines (config/artifact-based pipelines)
+- NLP (TF-IDF, Bag of Words, vectorizers, Word2Vec)
+- Neural networks (ReLU/sigmoid/softmax, backprop from scratch)
+- Model selection + reproducibility using MLOps
+
+### **Deep Learning**
+- Artificial Neural Nets (Feed-forward networks)
+- Convolutional Neural Networks (CNN for image processing)
+- RNNs (Recurrent Neural Networks)
+    - Variants of RNN
+    - LSTM (using "cell" for long-term memory)
+    - GRU RNNs
+- Encoder-Decoder theory
+- Transformer Architecture
+
 
 ### **Databases**
+- SQL
 - PostgreSQL  
 - MongoDB  
 
 ---
 
 ## 🧠 Current Focus (2026)
-- **Deep Learning** fundamentals → advanced  
-- **Computer Vision** (CNNs, ViTs, segmentation)  
-- **Generative AI** (diffusion models, VAEs)  
-- **LLMs** (transformers, attention, inference paths)  
-- **Agentic AI** (tool-using models, planning, LangChain, multi-agent systems)
+- **Computer Vision** (CNNs, ViTs, segmentation)
+- **Generative AI**
+    - Langchain **(in progress)**
+    - diffusion models,
+    - VAEs
+- **LLMs**
+    - transformers ✅
+    - attention ✅
+    - inference paths  
+- **Agentic AI** (tool-using models, planning, multi-agent systems)
 
 ---
 
