@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 - I'm a contributor to **TensorZero** and the **Eclipse Platform**, working with Rust, Java, and backend inference logic.  
-- I specialize in **machine learning pipelines**, **end-to-end ML projects**, and **deep learning from scratch**.  
+- I specialize in **machine learning pipelines**, **end-to-end ML projects**, and **deep learning**.  
 - I actively use **DAGsHub** + **MLflow** for experiment tracking and best-model selection.  
 - Currently learning: **Deep Learning**, **Transformers**, **Generative AI**, **LLMs**, and **Agentic AI**.  
 - Databases I work with: **PostgreSQL**, **MongoDB**.  
