@@ -1,10 +1,10 @@
 # Hi there, I'm Aryan 👋  
 
-### 🚀 Machine Learning Engineer | Deep Learning Enthusiast | Open-Source Contributor  
+### Machine Learning Engineer | Deep Learning Enthusiast | Open-Source Contributor  
 
 ---
 
-## 📌 About Me
+## About Me
 - I'm a contributor to **TensorZero** and the **Eclipse Platform**, working with Rust, Java, and backend inference logic.  
 - I specialize in **machine learning pipelines**, **end-to-end ML projects**, and **deep learning**.  
 - I actively use **DAGsHub** + **MLflow** for experiment tracking and best-model selection.  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### **Core**
 - Python, Java, Rust, C++, SQL,
@@ -47,7 +47,7 @@
 
 ---
 
-## 🧠 Current Focus (2026)
+## Current Focus (2026)
 - **Computer Vision** (CNNs, ViTs, segmentation)
 - **Generative AI**
     - Langchain **(in progress)**
